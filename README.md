@@ -17,5 +17,5 @@ Este projeto apresenta um **cartão de crédito estilizado**, focado em design v
 1. Clone o repositório ou baixe os arquivos.  
 2. Abra o projeto diretamente no navegador.
 
-   ```bash
+ ```bash
 https://larissasantos2.github.io/credit-card/
